@@ -9,7 +9,7 @@ Automatizando tarefas com Gulp.JS
   - Livereload
   - Gerando SourceMaps do SCSS e JS
   - Task Watch
-  - 
+  
 #### Execuntando o projeto
 Instalando dependências:
 ```sh
