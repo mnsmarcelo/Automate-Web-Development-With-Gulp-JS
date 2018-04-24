@@ -22,3 +22,4 @@ Iniciando servidor com livereload na porta 3000:
 $ npm install -g gulp
 $ gulp watch
 ```
+![Marcelo Sousa](https://www.marcelosousa.me/images/intro-site.jpg)
