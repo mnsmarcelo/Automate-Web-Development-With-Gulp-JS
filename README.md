@@ -19,5 +19,6 @@ $ npm install
 
 Iniciando servidor com livereload na porta 3000:
 ```sh
+$ npm install -g gulp
 $ gulp watch
 ```
